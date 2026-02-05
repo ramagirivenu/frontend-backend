@@ -31,3 +31,7 @@ See the assignment README for full requirements.
 ## output
 After running the server 5000, you will see the output as 
 "AUTH ROUTE WORKING"
+
+## this is the output URL
+http://localhost:5000/api/v1/auth/test
+
