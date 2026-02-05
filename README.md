@@ -35,3 +35,8 @@ After running the server 5000, you will see the output as
 ## this is the output URL
 http://localhost:5000/api/v1/auth/test
 
+## To run in new terminal use:
+cd "C:\Users\user\OneDrive\Desktop\backend & frontend\backend"
+
+## after running this run below:
+npm start
